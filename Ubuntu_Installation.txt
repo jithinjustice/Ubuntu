@@ -1,0 +1,456 @@
+vPFA….apt-get install open-ssh*
+   22  apt-get install openssh*
+   23  passwd jithinr
+   24  apt-get update
+   25  add-apt-repository ppa:webupd8team/java
+   26  apt-get update
+   27  apt-get install oracle-java8-installer
+   28  java -version
+   29  apt-get install mysql-server php5-mysql
+   30  mysql -v
+   31  apt-get install curl php5-cli
+   32  $curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+   33  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+   34  /usr/local/bin/composer
+   35  apt-get install Jenkins
+   36  pwd
+   37  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   38  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   39  apt-get update
+   40  apt-get install jenkins
+   41  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   42  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   43  apt-get update
+   44  apt-get install jenkins
+   45  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add .
+   46  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   47  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   48  apt-get update
+   49  apt-get install Jenkins
+   50  apt-get install Jenkins --fix-missing
+   51  add-apt-repository ppa:ondrej/php5-5.6
+   52  add-apt-repository ppa:ondrej/php
+   53  apt-get update
+   54  apt-get install python-software-properties
+   55  apt-get update
+   56  apt-get install php5
+   57  php -version
+   58  php -v
+   59  php5 -v
+   60  apt-get update
+   61  apt-get install apache2
+   62  service apache2 status
+   63  service apache2 start
+   64  netstat -tulpn | grep 80
+   65  netstat -tulpn | grep 81
+   66  ps -ef | grep 6565
+   67  kill -9 6565
+   68  ps -ef | grep 6565
+   69  service apache2 start
+   70  service apache2 restart
+   71  service apache2 status
+   72  apt-get update
+   73  apt-get install ant
+   74  mysql -u root -p root@123
+   75  mysql -u root
+   76  mysql -u root -p
+   77  locate ifcfg*
+   78  vi /etc/network/interfaces
+   79  ifconfig
+   80  ping 172.27.59.19
+   81  vi /etc/network/interfaces
+   82  apt-get install vi vim
+   83  vim /etc/network/interfaces
+   84  apt-get install vim
+   85  vim /etc/network/interfaces
+   86  service networking restart
+   87  reboot
+   88  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add .
+   89  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   90  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   91  apt-get update]
+   92  apt-get update
+   93  vim /etc/network/interfaces
+   94  apt-get update
+   95  ifconfig
+   96  ifdown eth0
+   97  service jenkins status
+   98  ifconfig
+   99  ant -version
+  100  php -version
+  101  php -v
+  102  php --version
+  103  apt-get update
+  104  ping google.com
+  105  vim /etc/network/interfaces
+  106  vi /etc/resolv.conf
+  107  vim /etc/network/interfaces
+  108  vi /etc/resolv.conf
+  109  service networking status
+  110  /etc/init.d/networking status
+  111  /etc/init.d/networking restart
+  112  /etc/init.d/networking status
+  113  /etc/init.d/networking stop
+  114  /etc/init.d/networking status
+  115  service networking status
+  116  service networking restart
+  117  ping google.com
+  118  wget http://google.com
+  119  vi /etc/resolv.conf
+  120  service networking restart
+  121  ifdown eth0
+  122  ifup eht0
+  123  ifup eth0
+  124  wget http://google.com
+  125  service networking status
+  126  service networking stop
+  127  service networking status
+  128  service apache2 status
+  129  service apache2 start
+  130  netstat -tulpn | grep 80
+  131  ps -ef | grep 1331
+  132  kill -9 1331
+  133  service apache2 start
+  134  service apache2 status
+  135  ping google.com
+  136  vi /etc/resolv.conf
+  137  vi /etc/network/interfaces
+  138  vi /etc/resolv.conf
+  139  ping google.com
+  140  apt-get update
+  141  apt-get install Jenkibns
+  142  apt-get install Jenkins
+  143  service jenkins status
+  144  service jenkins stop
+  145  service jenkins restart
+  146  vi /etc/network/interfaces
+  147  vi /etc/resolv.conf
+  148  service networking status
+  149  service networking restart
+  150  ifconfig
+  151  reboot
+  152  /etc/init.d/apache2 status
+  153  /etc/init.d/apache2 restart
+  154  netstat -tulpn | grep 80
+  155  chkconfig aolserver4-nsd off
+  156  kill -9 1595
+  157  /etc/init.d/apache2 restart
+  158  /etc/init.d/apache2 status
+  159  java --version
+  160  java -version
+  161  ant -vertsion
+  162  ant -version
+  163  netstat -tulpn | grep 80
+  164  kill -9 1570
+  165  ls
+  166  service apache2 status
+  167  service apache2 restart
+  168  service apache2 status
+  169  composer update
+  170  apt-get install composer
+  171  php -version
+  172  php --version
+  173  service jenkins status
+  174  php -m
+  175  git -version
+  176  apt-get install git
+  177  git -version
+  178  git --version
+  179  apt-get update
+  180  cd /home/jithinr/Desktop/
+  181  ls
+  182  Sysyem settings
+  183  System settings
+  184  unity-control-center
+  185  exit
+  186  unity-control-center
+  187  reboot
+  188  unity-control-center
+  189  unity-control-center
+  190  cd Desktop/
+  191  ls
+  192  cd Jithin/
+  193  git init
+  194  git clone https://github.com/jithinjustice/Magento_Jithin.git
+  195  ls
+  196  cd Magento_Jithin/
+  197  ls
+  198  composer update
+  199  php --ini
+  200  composer update
+  201  php --ini
+  202  ls
+  203  ant
+  204  vim build.xml
+  205  cd ..
+  206  ls
+  207  rm -rf Magento_Jithin/
+  208  ls
+  209  git clone https://github.com/jithinjustice/Magento_sample_July4.git
+  210  ls
+  211  cd Magento_sample_July4/
+  212  ls
+  213  composer update
+  214  ls
+  215  vim build.xml
+  216  ant build
+  217  APT-GET UPDATE
+  218  apt-get update
+  219  composer
+  220  composer update
+  221  cd Desktop/
+  222  composer update
+  223  composer init
+  224  mkdir Jithin
+  225  HISTORY
+  226  hisstory
+  227  history
+  228  unity-control-center
+  229  ls
+  230  cd Desktop/
+  231  ls
+  232  cd Jithin/
+  233  ls
+  234  cd Magento_sample_July4/
+  235  lsa
+  236  ls
+  237  composer update
+  238  service jenkins status
+  239  vim /var/lib/jenkins/secrets/initialAdminPassword
+  240  locate composer.phar
+  241  find composer.phar
+  242  locate composer
+  243  clear
+  244  locate composer
+  245  php bin/composer
+  246  ifconfig
+  247  pwd
+  248  ll
+  249  ls -al
+  250  locate *.phar
+  251  history
+  252  cd /usr/local/bin/
+  253  ll
+  254  composer update
+  255  unity-control-center
+  256  cd ~
+  257  ls
+  258  cd /home/jithinr/Downloads/
+  259  ls
+  260  rm r-f Magento_sample_July4-master
+  261  rm -rf Magento_sample_July4-master.zip
+  262  ls
+  263  cd Magento_sample_July4-master/
+ 264  ls
+  265  mv jj2.jpg jj.jpg /home/jithinr/Desktop/
+  266  ls
+  267  cd ..
+  268  ls
+  269  rm -rf Magento_sample_July4-master/
+  270  ls
+  271  cd ..
+  272  cd Desktop/
+  273  ls
+  274  unity-control-center
+  275  vim /var/lib/jenkins/secrets/initialAdminPassword
+  276  unity-control-center
+  277  ls
+  278  unity-control-center
+  279  history
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~#
+root@ubuntu:~# history
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  apt-get update
+    5  ant -version
+    6  apt-get install ant
+    7  ant -version
+    8  java -version
+    9  apt-get uninstall ant
+   10  apt-get remove ant
+   11  ant -version
+   12  ifconfig
+   13  reboot
+   14  ant -version
+   15  java -version
+   16  ifconfig
+   17  apt-get install openssh
+   18  apt-get install open-ssh
+   19  apt-get update
+   20  apt-get install open-ssh
+   21  apt-get install open-ssh*
+   22  apt-get install openssh*
+   23  passwd jithinr
+   24  apt-get update
+   25  add-apt-repository ppa:webupd8team/java
+   26  apt-get update
+   27  apt-get install oracle-java8-installer
+   28  java -version
+   29  apt-get install mysql-server php5-mysql
+   30  mysql -v
+   31  apt-get install curl php5-cli
+   32  $curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+   33  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+   34  /usr/local/bin/composer
+   35  apt-get install Jenkins
+   36  pwd
+   37  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   38  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   39  apt-get update
+   40  apt-get install jenkins
+   41  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   42  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   43  apt-get update
+   44  apt-get install jenkins
+   45  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add .
+   46  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   47  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   48  apt-get update
+   49  apt-get install Jenkins
+   50  apt-get install Jenkins --fix-missing
+   51  add-apt-repository ppa:ondrej/php5-5.6
+   52  add-apt-repository ppa:ondrej/php
+   53  apt-get update
+   54  apt-get install python-software-properties
+   55  apt-get update
+   56  apt-get install php5
+   57  php -version
+   58  php -v
+   59  php5 -v
+   60  apt-get update
+   61  apt-get install apache2
+   62  service apache2 status
+   63  service apache2 start
+   64  netstat -tulpn | grep 80
+   65  netstat -tulpn | grep 81
+   66  ps -ef | grep 6565
+   67  kill -9 6565
+   68  ps -ef | grep 6565
+   69  service apache2 start
+   70  service apache2 restart
+   71  service apache2 status
+   72  apt-get update
+   73  apt-get install ant
+   74  mysql -u root -p root@123
+   75  mysql -u root
+   76  mysql -u root -p
+   77  locate ifcfg*
+   78  vi /etc/network/interfaces
+   79  ifconfig
+   80  ping 172.27.59.19
+   81  vi /etc/network/interfaces
+   82  apt-get install vi vim
+   83  vim /etc/network/interfaces
+   84  apt-get install vim
+   85  vim /etc/network/interfaces
+   86  service networking restart
+   87  reboot
+   88  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add .
+   89  wget -q -O - https://jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+   90  sh -c 'echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list'
+   91  apt-get update]
+   92  apt-get update
+   93  vim /etc/network/interfaces
+   94  apt-get update
+   95  ifconfig
+   96  ifdown eth0
+   97  service jenkins status
+   98  ifconfig
+   99  ant -version
+  100  php -version
+  101  php -v
+  102  php --version
+  103  apt-get update
+  104  ping google.com
+  105  vim /etc/network/interfaces
+  106  vi /etc/resolv.conf
+  107  vim /etc/network/interfaces
+  108  vi /etc/resolv.conf
+  109  service networking status
+  110  /etc/init.d/networking status
+  111  /etc/init.d/networking restart
+  112  /etc/init.d/networking status
+  113  /etc/init.d/networking stop
+  114  /etc/init.d/networking status
+  115  service networking status
+  116  service networking restart
+  117  ping google.com
+  118  wget http://google.com
+  119  vi /etc/resolv.conf
+  120  service networking restart
+  121  ifdown eth0
+  122  ifup eht0
+  123  ifup eth0
+  124  wget http://google.com
+  125  service networking status
+  126  service networking stop
+  127  service networking status
+  128  service apache2 status
+  129  service apache2 start
+  130  netstat -tulpn | grep 80
+  131  ps -ef | grep 1331
+  132  kill -9 1331
+  133  service apache2 start
+  134  service apache2 status
+  135  ping google.com
+  136  vi /etc/resolv.conf
+  137  vi /etc/network/interfaces
+  138  vi /etc/resolv.conf
+  139  ping google.com
+  140  apt-get update
+  141  apt-get install Jenkibns
+  142  apt-get install Jenkins
+  143  service jenkins status
+  144  service jenkins stop
+  145  service jenkins restart
+  146  vi /etc/network/interfaces
+  147  vi /etc/resolv.conf
+  148  service networking status
+  149  service networking restart
+  150  ifconfig
+  151  reboot
+  152  /etc/init.d/apache2 status
+  153  /etc/init.d/apache2 restart
+  154  netstat -tulpn | grep 80
+  155  chkconfig aolserver4-nsd off
+  156  kill -9 1595
+  157  /etc/init.d/apache2 restart
+  158  /etc/init.d/apache2 status
+  159  java --version
+  160  java -version
+  161  ant -vertsion
+  162  ant -version
+  163  netstat -tulpn | grep 80
+  164  kill -9 1570
+  165  ls
+  166  service apache2 status
+  167  service apache2 restart
+  168  service apache2 status
+  169  composer update
+  170  apt-get install composer
+  171  php -version
+  172  php --version
+  173  service jenkins status
+  174  php -m
+  175  git -version
+  176  apt-get install git
+  177  git -version
+  178  git --version
+  179  apt-get update
+
+
